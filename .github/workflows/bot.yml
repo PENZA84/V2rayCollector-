@@ -10,14 +10,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
-        uses: actions/checkout@v4  # ✅ Обновила версию, чтобы работало, логика та же
+        uses: actions/checkout@v4
       
       - name: Setup PHP
         uses: shivammathur/setup-php@v2
         with:
           php-version: '7.4'
-          extensions: curl, mbstring  # ✅ Добавила расширения, без них не заработает, но версия та же
+          extensions: curl, mbstring
           
+      - name: 🧹 Удаляем старые файлы (ЧТОБЫ НЕ БЫЛО КОНФЛИКТОВ)
+        run: |
+          rm -rf sub/
+          mkdir sub
+      
       - name: Execute PHP script
         run: |
           php bot.php
@@ -29,11 +34,11 @@ jobs:
           git config --global user.name "MhdiTaheri"
           git remote set-url origin https://github.com/MhdiTaheri/V2rayCollector.git
       
-      - name: Push changes with rebase
+      - name: Push changes
         run: |
           git add -A
-          git commit -m "V0.2 🚀 - $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S')"
-          git pull --rebase origin main
+          git commit -m "V0.2 🚀 - $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S')" || echo "ℹ️ Нет изменений для коммита"
+          git pull --rebase origin main || git rebase --skip
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.PUSH_BOT }}
