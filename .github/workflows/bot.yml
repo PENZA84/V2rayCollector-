@@ -11,6 +11,9 @@ jobs:
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
       
       - name: Setup PHP
         uses: shivammathur/setup-php@v2
@@ -18,27 +21,26 @@ jobs:
           php-version: '7.4'
           extensions: curl, mbstring
           
-      - name: 🧹 Удаляем старые файлы (ЧТОБЫ НЕ БЫЛО КОНФЛИКТОВ)
+      - name: 🧹 Полная очистка перед запуском (убираем конфликты)
         run: |
-          rm -rf sub/
-          mkdir sub
+          git rm -rf --quiet sub/ || true
+          mkdir -p sub
       
       - name: Execute PHP script
         run: |
           php bot.php
-          git config credential.helper store
       
-      - name: Configure Git
+      - name: Configure Git (ТВОЙ РЕПОЗИТОРИЙ, НЕ ОРИГИНАЛ!)
         run: |
           git config --global user.email "vip.mahditaheri@gmail.com"
           git config --global user.name "MhdiTaheri"
-          git remote set-url origin https://github.com/MhdiTaheri/V2rayCollector.git
+          # 👇 ВАЖНО: пушим ТВОЙ репозиторий, не оригинал!
+          git remote set-url origin https://github.com/PENZA84/V2rayCollector-.git
       
-      - name: Push changes
+      - name: Push changes (без rebase, чтобы не было конфликтов)
         run: |
           git add -A
-          git commit -m "V0.2 🚀 - $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S')" || echo "ℹ️ Нет изменений для коммита"
-          git pull --rebase origin main || git rebase --skip
-          git push
+          git commit -m "V0.2 🚀 - $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S')" || echo "ℹ️ Нет изменений"
+          git push origin main --force
         env:
-          GITHUB_TOKEN: ${{ secrets.PUSH_BOT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
