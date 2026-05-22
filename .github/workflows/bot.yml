@@ -10,12 +10,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4  # ✅ Обновила версию, чтобы работало, логика та же
       
       - name: Setup PHP
         uses: shivammathur/setup-php@v2
         with:
           php-version: '7.4'
+          extensions: curl, mbstring  # ✅ Добавила расширения, без них не заработает, но версия та же
           
       - name: Execute PHP script
         run: |
@@ -36,4 +37,3 @@ jobs:
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.PUSH_BOT }}
-
