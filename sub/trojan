@@ -1,9 +1,8 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20ОБНОВЛЕНО%20%F0%9F%93%85%2027-05-2026 19:41
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20ОБНОВЛЕНО%20%F0%9F%93%85%2027-05-2026 22:32
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD_15
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_3
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
 trojan://8r%3C%5B9%27l6hAO%238ZQi@172.64.149.54:2096?path=%2Ftr&amp;security=tls&amp;host=Koma-YT.PAGeS.Dev&amp;type=ws&amp;sni=Koma-YT.PAGeS.Dev#%40SERVERNETT
-trojan://telegram-id-privatevpns@3.126.182.67:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-privatevpns@15.188.165.183:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@63.183.106.71:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@13.38.186.226:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
@@ -23,6 +22,7 @@ trojan://telegram-id-privatevpns@63.182.182.4:22222?security=tls&amp;alpn=http/1
 trojan://telegram-id-privatevpns@15.188.223.48:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@15.236.143.142:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@3.122.176.19:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
+trojan://telegram-id-privatevpns@15.237.158.158:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://humanity@8.6.112.6:443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.calmloud.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.calmloud.com#%40FreeLand8%20Test
 trojan://%3AU%5D2hAN7Y%5BKa0Eb_@www.speedtest.net:8443?type=ws&amp;security=tls&amp;path=%2Ftre6QQRE1ue6YL7k30%2FNzIuMTMuMTIyLjEzNw&amp;host=TEst-63W.PaGEs.deV&amp;sni=TEst-63W.PaGEs.deV&amp;allowInsecure=1#AllNets
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:8443?path=%2F&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=sni.111000.dynv6.net&amp;type=ws&amp;allowInsecure=1&amp;sni=sni.111000.dynv6.net#Pro%2011%20%40Outline_Vpn
@@ -73,6 +73,5 @@ trojan://2238e2f3-1a01-485e-8c22-24b65764c68b@172.64.152.23:443?path=%2F51.91.25
 trojan://mitivpn@104.21.18.41:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=www.iranpoems.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.iranpoems.ir#TELGRAM%3A%40ConfigV2RayNG
 trojan://mitivpn@104.25.249.217:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=www.iranpoems.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.iranpoems.ir#TELGRAM%3A%40ConfigV2RayNG
 trojan://mitivpn@208.103.161.91:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=www.iranpoems.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.iranpoems.ir#TELGRAM%3A%40ConfigV2RayNG
-trojan://2238e2f3-1a01-485e-8c22-24b65764c68b@172.64.152.23:443?path=%2F51.91.253.83&amp;security=tls&amp;insecure=0&amp;host=gzjx.dpdns.org&amp;type=ws&amp;allowInsecure=0&amp;sni=gzjx.dpdns.org#%40UnNurmal%20USS%E2%9A%A1
 trojan://mitivpn@www.iranpoems.ir:443?security=tls&amp;sni=www.iranpoems.ir&amp;fp=chrome&amp;allowInsecure=0&amp;alpn=http/1.1&amp;type=ws&amp;path=/?ed%3D2048#@sogoandfuckyourlove
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
