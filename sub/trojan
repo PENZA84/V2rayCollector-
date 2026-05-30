@@ -1,8 +1,7 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20ОБНОВЛЕНО%20%F0%9F%93%85%2030-05-2026 12:23
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20ОБНОВЛЕНО%20%F0%9F%93%85%2030-05-2026 14:24
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD_15
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_3
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
-trojan://telegram-id-privatevpns@51.44.95.202:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@15.224.91.104:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@3.78.211.9:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-privatevpns@15.224.25.236:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
@@ -17,6 +16,7 @@ trojan://telegram-id-privatevpns@15.237.10.72:22222?security=tls&amp;alpn=http/1
 trojan://telegram-id-privatevpns@15.236.200.24:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@3.122.92.172:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@63.179.174.154:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
+trojan://telegram-id-privatevpns@51.44.150.171:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://mitivpn@45.130.125.76:443?path=%2F%3Fed&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.app-cloud.ir#%40Freeland8%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
 trojan://humanity@141.193.213.11:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=www.calmloud.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.calmloud.com#%F0%9F%95%8A%EF%B8%8F%40FreeLand8%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%A8%D8%AF%D9%87%20%F0%9F%95%8A%EF%B8%8F
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:8443?path=%2F&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=sni.111000.dynv6.net&amp;type=ws&amp;allowInsecure=1&amp;sni=sni.111000.dynv6.net#Pro%2011%20%40Outline_Vpn
@@ -57,7 +57,7 @@ trojan://mitivpn@45.130.125.76:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;alp
 trojan://humanity@104.17.121.71:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.multiplydose.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.multiplydose.com#%40ultrasurf_12%20%F0%9F%8F%93
 trojan://Mitivpn@208.103.161.33:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;alpn=http%2F1.1&amp;host=cdn.hitgram.ir&amp;fp=chrome&amp;type=ws&amp;sni=cdn.hitgram.ir#Join%20%E2%9E%A3%20%40ultrasurf_12
 trojan://Mitivpn@208.103.161.1:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;alpn=http%2F1.1&amp;host=dash.hitgram.ir&amp;fp=chrome&amp;type=ws&amp;sni=dash.hitgram.ir#Join%20%E2%9E%A3%20%40ultrasurf_12
-trojan://humanity@104.17.121.71:443?path=%2Fassignment&amp;security=tls&amp;host=www.multiplydose.com&amp;allowinsecure=0&amp;type=ws&amp;sni=www.multiplydose.com#@sogoandfuckyourlove
+trojan://f6d3aa07a52dbcedcb4731029e2fb6ae@18.163.128.27:2663?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%40ultrasurf_12
 trojan://Mitivpn@104.17.121.9:443?type=ws&amp;security=tls&amp;path=%2F%3Fed%3Dmitivpn&amp;host=my.hitgram.ir&amp;sni=my.hitgram.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;allowInsecure=1#@sogoandfuckyourlove
 trojan://Mitivpn@104.17.121.37:443?type=ws&amp;security=tls&amp;path=%2F%3Fed%3Dmitivpn&amp;host=my.hitgram.ir&amp;sni=my.hitgram.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;allowInsecure=1#@sogoandfuckyourlove
 trojan://Mitivpn@104.17.121.71:443?type=ws&amp;security=tls&amp;path=%2F%3Fed%3Dmitivpn&amp;host=panel.hitgram.ir&amp;sni=panel.hitgram.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;allowInsecure=1#@sogoandfuckyourlove
