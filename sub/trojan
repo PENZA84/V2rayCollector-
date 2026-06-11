@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20ОБНОВЛЕНО%20%F0%9F%93%85%2011-06-2026 02:29
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20ОБНОВЛЕНО%20%F0%9F%93%85%2011-06-2026 07:14
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD_15
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_3
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
@@ -50,7 +50,6 @@ trojan://BxceQaOe@219.79.214.159:443?security=tls&amp;headerType=none&amp;type=t
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.nintendogames.net#Japan%20NTT%20Pc
 trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&amp;security=tls&amp;fp=chrome&amp;type=grpc&amp;serviceName=db&amp;sni=n2.gladns.com#United%20State%20Nato
 trojan://humanity@104.16.174.12:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
-trojan://humanity@43.169.18.179:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.creationlong.org#%F0%9F%9A%80%20%40ConfigV2RayNG
 trojan://humanity@188.114.97.6:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.creationlong.org#%F0%9F%8C%9F%20%40ConfigV2RayNG
 trojan://humanity@104.16.174.12:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#TELEGRAM%3A%40ConfigV2RayNG
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=ios&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmloud.com#%E2%9C%A8%20%40ConfigV2RayNG
@@ -69,6 +68,7 @@ trojan://humanity@185.18.250.252:443?path=%2Fassignment&amp;security=tls&amp;ins
 trojan://SoftNetConnect@167.233.105.87:443?mode=auto&amp;path=%2F&amp;security=reality&amp;extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;pbk=nhOVbG_d8gvDrs6ayt-kdjwo2wITTujBH_hbDO5hZnE&amp;fp=chrome&amp;spx=%2F&amp;type=xhttp&amp;sni=www.yahoo.com&amp;sid=7a66d2f9e8805c17#%F0%9F%87%A9%F0%9F%87%AAConfigV2RayNG
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.15:41943?security=tls&amp;insecure=1&amp;headerType=none&amp;type=tcp&amp;allowInsecure=1&amp;sni=az.01.naiun.bilibili.com#%F0%9F%8E%A9%20%40ConfigV2RayNG
 trojan://humanity@188.114.97.6:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%40ConfigV2RayNG%20%F0%9F%90%A6
+trojan://humanity@198.62.62.23:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%F0%9F%8E%80%20%40ConfigV2RayNG
 trojan://Masir_Sefid@206.189.58.246:443?security=reality&amp;pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&amp;headerType=none&amp;fp=chrome&amp;spx=%2FzyKRb3NaP9Ee0j4&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=6ced01fc4aa417#@meliproxyy
 trojan://Masir_Sefid@206.189.58.246:1040?security=reality&amp;pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&amp;headerType=none&amp;fp=chrome&amp;spx=%2FaRBYGa427aKKE16&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=84e87fdcdf2ea9e8#@meliproxyy
 trojan://Masir_Sefid@206.189.58.246:2053?security=reality&amp;pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&amp;headerType=none&amp;fp=chrome&amp;spx=%2FW8svbYrFok2DfFx&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=20b301df70#@meliproxyy
