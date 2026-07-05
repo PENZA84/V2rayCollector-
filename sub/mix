@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20ОБНОВЛЕНО%20%F0%9F%93%85%2005-07-2026 17:00
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20ОБНОВЛЕНО%20%F0%9F%93%85%2005-07-2026 18:18
 vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=a12.crowsvpn.shop&amp;type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://f356ae17-12ad-43ce-9961-56de0725452e@173.199.117.62:3?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
 vless://a490e46d-e450-4c73-631f-920da539186c@s2.zynavo.ir:2087?mode=auto&amp;path=%2FBetForward&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;insecure=1&amp;host=cdn.zynavo.ir&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=1&amp;sni=cdn.zynavo.ir#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
@@ -1239,6 +1239,12 @@ trojan://MITIVPN@69.84.182.44:443?path=%2FMiTiVPN%3DUsa&amp;security=tls&amp;alp
 trojan://MiTiVPN@www.speedtest.net:443?path=%2FMiTiVPN%3DSw&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;insecure=0&amp;host=sw-W.App-Cloud.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=sw-W.App-Cloud.ir#%F0%9F%87%A8%F0%9F%87%B3%40FreakConfig
 trojan://MiTiVPN@104.21.5.75:443?path=%2FMiTiVPN%3DSw&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;insecure=0&amp;host=sw-W.App-Cloud.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=sw-W.App-Cloud.ir#%F0%9F%87%A9%F0%9F%87%AA%20%40FreakConfig
 trojan://MiTiVPN@45.131.4.115:443?path=%2FMiTiVPN%3DN-L&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;insecure=0&amp;host=Nl-L.App-Cloud.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=Nl-L.App-Cloud.ir#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+trojan://telegram-id-privatevpns@35.181.74.249:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
+trojan://telegram-id-privatevpns@51.44.109.224:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
+trojan://telegram-id-privatevpns@18.193.237.12:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
+trojan://telegram-id-privatevpns@63.186.137.193:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
+trojan://telegram-id-privatevpns@13.37.135.58:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
+trojan://telegram-id-privatevpns@13.39.35.22:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@3.73.234.160:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@63.179.157.110:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-privatevpns@13.39.253.200:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
