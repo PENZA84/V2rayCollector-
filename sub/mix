@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20ОБНОВЛЕНО%20%F0%9F%93%85%2016-07-2026 18:44
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20ОБНОВЛЕНО%20%F0%9F%93%85%2016-07-2026 20:21
 vless://891710f4-45f3-41b1-99a6-6f1510f83c10@1.tls.fastly.veraspeed.ir:443?path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=pan21.global.ssl.fastly.net&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
 vless://5aca6fb1-b21a-4f63-9cab-54986613f6aa@91.148.135.191:54217?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://dc2f9b12-c085-fc47-da5c-36a01aff6547@config85bot-idchanl-timazadi.up.railway.app:443?mode=stream-up&amp;path=%2Fxhttp-siz10%2Fstream-up%2Fdc2f9b12-c085-fc47-da5c-36a01aff6547&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=config85bot-idchanl-timazadi.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
@@ -115,9 +115,6 @@ vless://ffffffff-17ad-45e7-aaa1-f2baaa08e930@141.101.113.89:443?path=%2F%3Fed%3D
 vless://CONFIG-WANCLOUDFA@49.12.64.220:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://52e194ba-cdf5-4a7d-d146-d8b06f8a698b@51.75.91.144:23300?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://075232d9-82c0-4500-b049-812e944c655c@shop.frahidx.ir:2044?encryption=none&amp;fp=ios&amp;headerType=http&amp;host=play.google.com&amp;path=%2F&amp;pbk=gjTtmitQwQ-RqfeieYrfdba0R08zcdwh4h4YGBCnVRo&amp;security=reality&amp;sid=0be408ac733a5da5&amp;sni=google-analytics.com&amp;spx=%2FGOJJb7rYbXlqVHW&amp;type=tcp#test
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.179.29.71:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.86.98:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.46.17:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.143.26:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.204.6:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.184.37.237:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)
@@ -131,6 +128,8 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.127.97.180:22222?encryption=none&
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.29.73.217:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.144.101:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.183.55:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.211.137:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.194.165.203:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)
 vless://6871b29e-bb51-4b6b-b2fa-6e2b98ad3859@46.62.240.221:80?security=none&amp;encryption=none&amp;host=khamenei.ir&amp;headerType=http&amp;type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20%7C%20%40FreeLand8
 vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@e2d89c6c10610582.nimaghaffarzadeh.ir:56625?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&amp;fp=ios&amp;type=grpc&amp;sni=icloud.com&amp;sid=abbb6e5e07cdf34b#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40FreeLand8
 vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@dd08e90ee38b1a0f.mbcloudy.ir:56625?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&amp;fp=ios&amp;type=grpc&amp;sni=icloud.com&amp;sid=f46de42b38cf0a64#%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%40FreeLand8
@@ -981,9 +980,6 @@ ss://ffffffff-17ad-45e7-aaa1-f2baaa08e930@141.101.113.89:443?path=%2F%3Fed%3D204
 ss://CONFIG-WANCLOUDFA@49.12.64.220:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 ss://52e194ba-cdf5-4a7d-d146-d8b06f8a698b@51.75.91.144:23300?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 ss://075232d9-82c0-4500-b049-812e944c655c@shop.frahidx.ir:2044?encryption=none&amp;fp=ios&amp;headerType=http&amp;host=play.google.com&amp;path=%2F&amp;pbk=gjTtmitQwQ-RqfeieYrfdba0R08zcdwh4h4YGBCnVRo&amp;security=reality&amp;sid=0be408ac733a5da5&amp;sni=google-analytics.com&amp;spx=%2FGOJJb7rYbXlqVHW&amp;type=tcp#test
-ss://e4514801-0d5a-42ba-869f-39bd605aef9e@63.179.29.71:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
-ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.86.98:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
-ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.46.17:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.143.26:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.204.6:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@63.184.37.237:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)
@@ -997,6 +993,8 @@ ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.127.97.180:22222?encryption=none&amp
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@52.29.73.217:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.144.101:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.183.55:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.211.137:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@18.194.165.203:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)
 ss://6871b29e-bb51-4b6b-b2fa-6e2b98ad3859@46.62.240.221:80?security=none&amp;encryption=none&amp;host=khamenei.ir&amp;headerType=http&amp;type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20%7C%20%40FreeLand8
 ss://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@e2d89c6c10610582.nimaghaffarzadeh.ir:56625?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&amp;fp=ios&amp;type=grpc&amp;sni=icloud.com&amp;sid=abbb6e5e07cdf34b#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40FreeLand8
 ss://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@dd08e90ee38b1a0f.mbcloudy.ir:56625?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&amp;fp=ios&amp;type=grpc&amp;sni=icloud.com&amp;sid=f46de42b38cf0a64#%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%40FreeLand8
